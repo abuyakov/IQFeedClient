@@ -1,4 +1,7 @@
 ---
+:writes:
+- "S,SET CLIENT NAME,XY5yudlJMd\r\n"
+- "NCG,t,1\r\n"
 :reads:
 - "1,CATEGORY,All News\r\n"
 - "1,MAJOR,DTN,DTN News,1D,10\r\n"
@@ -23,6 +26,3 @@
 - "1,MAJOR,CPZ,GlobeNewswire Inc,2Ag,10\r\n"
 - "1,MAJOR,BEN,Benzinga Pro,1a,10\r\n"
 - "1,!ENDMSG!,\r\n"
-:writes:
-- "S,SET CLIENT NAME,XY5yudlJMd\r\n"
-- "NCG,t,1\r\n"

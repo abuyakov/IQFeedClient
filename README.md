@@ -1,27 +1,21 @@
-[![CircleCI](https://circleci.com/gh/kvokka/dtn.svg?style=svg&circle-token=ed32de8a1360f1100f4601ee6d7311fd2b310220)](https://circleci.com/gh/kvokka/dtn)
 [![Gem Version](https://img.shields.io/gem/v/dtn.svg)](https://rubygems.org/gems/dtn)
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
-[![Maintainability](https://api.codeclimate.com/v1/badges/7bf62332c4d163460678/maintainability)](https://codeclimate.com/github/kvokka/dtn/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/7bf62332c4d163460678/test_coverage)](https://codeclimate.com/github/kvokka/dtn/test_coverage)
+![Gem (including prereleases)](https://img.shields.io/gem/v/dtn)
+![Static Badge](https://img.shields.io/badge/iqfeed-v6.1-blue)
 
-# Dtn
+# IQFeedClient
 
-Unofficial DTN (IQFeed) client.
+DTN's unofficial IQFeed Client. This is practically documentation from the site that DTN provides by developer subscription. 
 
-# Dependencies
+## IQFeed API support status
 
-* IQFeed client ~> 6.1
-
-# IQFeed API support status
-
-## Streaming clients
+### Streaming clients
 
 - [x] Quote (Level 1) client
 - [x] Level 2 client
 - [x] Bar (Derivative) client
 - [x] Admin client
 
-## Lookup client
+### Lookup client
 
 - [x] Historical data
 - [x] News data

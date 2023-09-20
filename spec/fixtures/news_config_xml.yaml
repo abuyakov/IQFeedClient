@@ -1,4 +1,7 @@
 ---
+:writes:
+- "S,SET CLIENT NAME,kipgrQ5O73\r\n"
+- "NCG,x,1\r\n"
 :reads:
 - "1,<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n"
 - "1,<DynamicNewsConf>\r\n"
@@ -54,6 +57,3 @@
 - "1,\t</category>\r\n"
 - "1,</DynamicNewsConf>\r\n"
 - "1,!ENDMSG!,\r\n"
-:writes:
-- "S,SET CLIENT NAME,kipgrQ5O73\r\n"
-- "NCG,x,1\r\n"
